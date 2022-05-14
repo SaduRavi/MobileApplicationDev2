@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CourseWork</string>
+    <string name="addMovies">Add Movies</string>
+    <string name="searchMovies">Search movies</string>
+    <string name="retreiveMovie">retrieve movie</string>
+    <string name="saveMovie">save movie</string>
+    <string name="searchActor">Search actor</string>
+    <string name="search">Search</string>
+    <string name="search_movies">Search Movies</string>
+    <string name="camera">Deco Image Camera</string>
+    <string name="movieApp">Movie App</string>
+    <string name="poster">poster</string>
+    <string name="search_actors">Search Actors</string>
+    <string name="search_movies_from_site">search movies from site</string>
+    <string name="back">back</string>
+</resources>
